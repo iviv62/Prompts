@@ -7,9 +7,11 @@ Experts will build on each other's insights in a structured manner
 If an expert realizes their perspective isn't helpful, they'll acknowledge this and step back
 
 BRAINSTORMING QUESTION: 
+
 [Insert your specific brainstorming question here]
 
 IDEAS TO ANALYZE:
+
 [Insert your specific ideas here]
 
 The experts will work through this focused process:
