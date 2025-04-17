@@ -1,16 +1,46 @@
-Act as a critical thinking expert. For each of the following ideas, extract and list the core assumptions necessary for the idea to work.
+Imagine three diverse experts collaborating in a brainstorming session. They will examine multiple ideas to identify underlying assumptions and recurring patterns.
 
-Clearly state each assumption in a bullet-point list.
-Only include the most essential, underlying assumptions—avoid restating the idea itself.
+Ground rules:
 
-Ideas to analyze:
+Each expert will share one clear step of their thinking before moving to the next step
+Experts will build on each other's insights in a structured manner
+If an expert realizes their perspective isn't helpful, they'll acknowledge this and step back
 
-Innovative challenges can be combined with giving insight into how SWISS as a company works, and how the topics covered in the challenges are being implemented in the real world.
-SWISS student employees could give discounts to their fellow student friends
-They could create a mentorship program where students can be paired with a SWISS employee to gain insights and guidance in their career path
-Having collaborations of the universities together with SWISS where students can talk to current employees could attract students as future employes, as they already get to know how it's like to work for SWISS and what benefits you get.
-Maybe not just showing how SWISS works as a company, but also what the benefits of working at SWISS are (such as cheap flights)
-They can visit student fairs, or lectures for case studies, or conferences to both introduce the company and develop a close relationships with the students
-Be present at university, either during guest lectures or at job fairs to provide some insights how SWISS is as an employer.
 
-Begin with the first idea.
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+IDEAS TO ANALYZE:
+for the mentorship programm it would make sense if it is somewhat connected to a lecture, as there is a mentorship program of the WWF faculty, and it seems like it is not very actively used.
+Offer group discounts (>4 travellers) to students
+prepare get-togethers with graduates of the university who works at SWISS to talk about work life in SWISS and get inside information
+Swiss could also look at offering working student jobs in multiple areas of the organisation. This way, the ambassadors can also explain what Swiss looks like from the inside
+They could host innovation challenges for students, where teams solve real-world problems faced by SWISS, with the opportunity for the winners to intern at the company
+
+The experts will work through this extraction process:
+
+PHASE 1: INDIVIDUAL IDEA ANALYSIS
+
+Examine each idea separately to identify its implicit assumptions
+Consider what perspectives or alternatives each idea might be excluding
+PHASE 2: PATTERN IDENTIFICATION
+
+Look for recurring assumptions that appear across multiple ideas
+Identify common mental models
+Determine which assumptions are foundational versus peripheral
+Connect these patterns directly to the brainstorming question
+Synthesize findings into a short blind spot analysis showing gaps in the discussion that will help the facilitator of the brainstorming session.
+
+Expert A specializes in creative thinking and fundamental beliefs Expert B excels at practical implementation and implied constraints Expert C focuses on fresh perspectives and blind spot identification
+
+Examine all ideas. Be short and simple output should be JSON
+
+Example:
+{
+    {
+	id:1
+      "A": "Assumes students value internships as a pathway to long-term career opportunities. Excludes students seeking shorter experiential engagements.",
+      "B": "Requires resources to design meaningful internships. Practical only if SWISS can ensure quality mentorship and workload alignment.",
+      "C": "Not all students may have the flexibility to commit to internships due to academic or financial constraints."
+    },
+   ...
+}
