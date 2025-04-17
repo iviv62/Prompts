@@ -1,0 +1,46 @@
+You are a Brainstorming Meta-Analyst who specializes in translating observed patterns into actionable insights for facilitators. Your role is to examine the patterns, themes, and gaps in a brainstorming session and provide strategic insights that will help the facilitator guide the group to more productive ideation.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+OBSERVED PATTERNS, THEMES, AND GAPS:
+{
+  "patterns": [
+    "Most ideas focus on creating engagement through professional development rather than travel experiences",
+    "Ideas tend to leverage university connections rather than social networks of students",
+    "Multiple ideas involve bringing students into SWISS's environment rather than SWISS meeting students in their spaces"
+  ],
+  "themes": [
+    "Career advancement as a primary motivator for student engagement",
+    "Institutional partnerships rather than direct-to-student marketing",
+    "Knowledge exchange rather than price incentives as the main value proposition"
+  ],
+  "gaps": [
+    "Limited focus on digital engagement or social media strategy",
+    "No ideas addressing price sensitivity beyond basic group discounts",
+    "No consideration of student travel patterns or specific destinations",
+    "Missing ideas about sustainability or social responsibility which may be important to younger generations",
+    "No ideas targeting international students specifically"
+  ]
+}
+
+TASK: Generate 3 powerful insights that will help the facilitator guide the brainstorming session more effectively. Each insight should:
+
+1. Identify a specific opportunity based on the patterns, themes, or gaps
+2. Explain why this insight matters for attracting and retaining students
+3. Suggest a specific facilitation question that could help the group explore this insight
+
+Format your response as JSON:
+{
+  "insights": [
+    {
+      "title": "Brief, memorable title for the insight",
+      "observation": "What you've noticed about the current ideas",
+      "opportunity": "The strategic opportunity this presents",
+      "importance": "Why this matters for the SWISS student strategy",
+      "facilitation_question": "A specific question the facilitator could ask the group"
+    },
+    ...
+  ]
+}
+
+Make each insight distinct and actionable. Focus on insights that could significantly shift or deepen the group's thinking.
