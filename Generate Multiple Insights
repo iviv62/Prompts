@@ -38,6 +38,8 @@ Format your response as JSON:
       "opportunity": "The strategic opportunity this presents",
       "importance": "Why this matters for the SWISS student strategy",
       "facilitation_question": "A specific question the facilitator could ask the group"
+   "expected_outcomes": "The specific shifts in thinking or ideation you anticipate this insight will produce",
+    "potential_resistance": "Any resistance or challenges the facilitator should be prepared to address when introducing this insight"
     },
     ...
   ]
