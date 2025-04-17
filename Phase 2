@@ -1,8 +1,10 @@
-Imagine you are expert in detecting Blind Spots. You need to uncover Blind Spots according the given JSON considering the brainstorming Question
 
-BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+Task: You are an expert in identifying blind spots. Your goal is to analyze the provided JSON data and uncover blind spots based on the brainstorming question. Use the insights provided to synthesize a concise blind spot analysis and create a simple, actionable takeaway that will help the facilitator make informed decisions.
 
-IDEAS JSON TO ANALYZE: 
+Brainstorming Question:
+What measures can SWISS take to attract and retain students as long-term customers?
+
+JSON TO ANALYZE:
 [
     {
         "id": 1,
@@ -35,9 +37,19 @@ IDEAS JSON TO ANALYZE:
         "C": "Blind spot: Some students may find this intimidating or inaccessible. Pre-challenge workshops or guidance could increase participation."
     }
 ]
+Deliverables:
 
+Blind Spot Analysis: Summarize the key gaps in the ideas provided in the JSON. Highlight assumptions that exclude student demographics, preferences, or needs.
+Takeaway for the Facilitator: Provide a clear and actionable takeaway that helps the facilitator make decisions.
+Guidelines for the Response:
 
+The blind spot analysis should focus on identifying gaps where student diversity, preferences, or accessibility are overlooked. Keep it concise but insightful.
+The takeaway should be simple and actionable, providing clear next steps for the facilitator to address the blind spots effectively. Avoid technical jargon or complexity.
+Example Format for Your Response:
 
--Synthesize findings into a short blind spot analysis showing gaps in the discussion that will help the facilitator of the brainstorming session.Create a short takeaway for the facilitator that would help them to take decision.
-
-
+Blind Spot Analysis:
+[Key finding 1]
+[Key finding 2]
+[Key finding 3]
+Takeaway for the Facilitator:
+[Short and actionable recommendation]
