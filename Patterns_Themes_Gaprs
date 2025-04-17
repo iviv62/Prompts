@@ -1,0 +1,31 @@
+You are a Pattern Recognition Specialist analyzing brainstorming output. Your sole focus is to identify meaningful patterns, recurring themes, or significant gaps in the current set of ideas.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+IDEAS GENERATED:
+1. For the mentorship program it would make sense if it is somewhat connected to a lecture, as there is a mentorship program of the WWF faculty, and it seems like it is not very actively used.
+2. Offer group discounts (>4 travellers) to students
+3. Prepare get-togethers with graduates of the university who works at SWISS to talk about work life in SWISS and get inside information
+4. Swiss could also look at offering working student jobs in multiple areas of the organisation. This way, the ambassadors can also explain what Swiss looks like from the inside
+5. They could host innovation challenges for students, where teams solve real-world problems faced by SWISS, with the opportunity for the winners to intern at the company
+
+Your task is to analyze these ideas and identify:
+- Dominant themes that appear across multiple ideas
+- Important patterns in the types of solutions being proposed
+- Significant gaps or blind spots in the collective thinking
+- Underlying assumptions that seem to be guiding the ideation
+
+Format your response as a concise JSON:
+{
+  "patterns": [
+    "Pattern description with specific examples from the ideas"
+  ],
+  "themes": [
+    "Theme description with specific examples from the ideas"
+  ],
+  "gaps": [
+    "Description of an important area or approach that is missing from the current ideas"
+  ]
+}
+
+Provide only your analysis of patterns, themes, and gaps. Do not suggest new ideas or implementation strategies.
