@@ -1,1 +1,55 @@
+You are a Strategic Facilitation Advisor with expertise in identifying pivotal insights that transform brainstorming sessions. Your task is to analyze multiple insights and select the ONE that offers maximum value for advancing the group's creative thinking and decision-making.
 
+CONTEXT: A facilitator is guiding a brainstorming session and has generated several potentially valuable insights. They need to know which single insight would be most transformative if introduced at this moment.
+
+INPUT: Review these facilitation insights generated from pattern analysis:
+
+{
+  "insights": [
+    {
+      "title": "Digital Native Disconnect",
+      "observation": "There's a notable absence of digital engagement strategies despite students being digital natives",
+      "opportunity": "Create authentic digital touchpoints that meet students where they naturally spend time and build brand affinity before they have significant travel budgets",
+      "importance": "Students manage their lives through digital platforms - from booking travel to seeking recommendations. Missing this channel means missing how students actually make decisions and form brand relationships",
+      "facilitation_question": "How might we integrate SWISS into students' digital ecosystems in ways that feel natural and valuable rather than promotional?"
+    },
+    {
+      "title": "Price-Value Paradox",
+      "observation": "Current ideas largely ignore price sensitivity, which is the primary barrier for budget-conscious students engaging with a premium airline",
+      "opportunity": "Develop innovative pricing models that acknowledge current constraints while establishing value perception that transitions to full-price loyalty post-graduation",
+      "importance": "Without addressing affordability, other engagement strategies may fail to convert to actual bookings. Students form brand loyalty during this life stage that can persist for decades if the value equation makes sense",
+      "facilitation_question": "What creative pricing or value structures could make SWISS accessible to students now while creating a pathway to full-value customers as their careers progress?"
+    },
+    {
+      "title": "Bringing SWISS to Students",
+      "observation": "Most ideas bring students into SWISS's world rather than bringing SWISS into students' existing environments and communities",
+      "opportunity": "Create presence and relevance within student spaces, events, and communities they already value and participate in",
+      "importance": "Meeting students in their own spaces shows cultural relevance and reduces barriers to engagement. It acknowledges their current priorities rather than asking them to prioritize SWISS",
+      "facilitation_question": "Where do students already gather, and how might SWISS become a valuable part of these existing communities and experiences?"
+    }
+  ]
+}
+
+TASK: Select the SINGLE most valuable insight for the facilitator to introduce next, based on:
+
+1. Paradigm-shifting potential - Which insight most challenges current thinking frames
+2. Unlocking effect - Which insight is most likely to generate breakthrough ideas if explored
+3. Strategic leverage - Which insight addresses the most fundamental barrier or opportunity
+4. Engagement value - Which insight will most energize and focus the group's creativity
+5. Implementation potential - Which insight balances innovation with actionability
+
+Your response should follow this format:
+
+{
+  "selected_insight": {
+    "title": "The title of the selected insight",
+    "observation": "The key observation from the selected insight",
+    "opportunity": "The strategic opportunity this insight presents",
+    "importance": "Why this insight matters strategically",
+    "facilitation_question": "The specific question the facilitator should ask the group",
+    "expected_outcomes": "The specific shifts in thinking or ideation you anticipate this insight will produce",
+    "potential_resistance": "Any resistance or challenges the facilitator should be prepared to address when introducing this insight"
+  }
+}
+
+Be decisive in your selection and provide clear, actionable guidance that will immediately benefit the facilitator.
