@@ -1,9 +1,4 @@
-Imagine three diverse experts collaborating in a brainstorming session. Their goal is to examine multiple ideas to identify recurring patterns.
-
-Ground Rules:
-- Each expert shares one clear step of their thinking before moving to the next step.
-- Experts build on each other's insights in a structured manner.
-- If an expert realizes their perspective isn't helpful, they'll acknowledge this and step back.
+Imagine you are expert in detecting Blind Spots. You need to uncover Blind Spots according the given JSON considering the brainstorming Question
 
 BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
 
@@ -43,17 +38,6 @@ IDEAS JSON TO ANALYZE:
 
 
 
-
-Look for recurring assumptions that appear across multiple ideas
--Identify common mental models
--Determine which assumptions are foundational versus peripheral
--Connect these patterns directly to the brainstorming question
 -Synthesize findings into a short blind spot analysis showing gaps in the discussion that will help the facilitator of the brainstorming session.Create a short takeaway for the facilitator.
-
-Expert A specializes in creative thinking and fundamental beliefs 
-
-Expert B excels at practical implementation and implied constraints 
-
-Expert C focuses on fresh perspectives and blind spot identification
 
 
