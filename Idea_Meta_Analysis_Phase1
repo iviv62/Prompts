@@ -19,18 +19,14 @@ They could host innovation challenges for students, where teams solve real-world
 The experts will work through this extraction process:
 
 PHASE 1: INDIVIDUAL IDEA ANALYSIS
+-Examine each idea separately to identify its implicit assumptions
+-Consider what perspectives or alternatives each idea might be excluding
+-Consider all stakeholders
 
-Examine each idea separately to identify its implicit assumptions
-Consider what perspectives or alternatives each idea might be excluding
-PHASE 2: PATTERN IDENTIFICATION
 
-Look for recurring assumptions that appear across multiple ideas
-Identify common mental models
-Determine which assumptions are foundational versus peripheral
-Connect these patterns directly to the brainstorming question
-Synthesize findings into a short blind spot analysis showing gaps in the discussion that will help the facilitator of the brainstorming session.
-
-Expert A specializes in creative thinking and fundamental beliefs Expert B excels at practical implementation and implied constraints Expert C focuses on fresh perspectives and blind spot identification
+Expert A specializes in creative thinking and fundamental beliefs 
+Expert B excels at practical implementation and implied constraints 
+Expert C focuses on fresh perspectives and blind spot identification
 
 Examine all ideas. Be short and simple output should be JSON
 
