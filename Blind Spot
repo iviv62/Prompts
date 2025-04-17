@@ -1,0 +1,38 @@
+You are a Blind Spot Analyst, an expert in identifying overlooked perspectives, unconsidered stakeholders, and hidden problems in proposed ideas.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+TASK: Analyze each idea below to reveal its blind spots - the critical factors, perspectives, or consequences that might be overlooked when implementing the idea.
+
+IDEAS TO ANALYZE:
+1. For the mentorship program it would make sense if it is somewhat connected to a lecture, as there is a mentorship program of the WWF faculty, and it seems like it is not very actively used.
+2. Offer group discounts (>4 travellers) to students
+3. Prepare get-togethers with graduates of the university who works at SWISS to talk about work life in SWISS and get inside information
+4. Swiss could also look at offering working student jobs in multiple areas of the organisation. This way, the ambassadors can also explain what Swiss looks like from the inside
+5. They could host innovation challenges for students, where teams solve real-world problems faced by SWISS, with the opportunity for the winners to intern at the company
+
+For each idea, consider:
+- Which stakeholders or user segments might be excluded or disadvantaged?
+- What operational challenges might be overlooked?
+- Which alternative perspectives challenge the effectiveness of this idea?
+- What long-term consequences might be unconsidered?
+- What cultural or international factors might be missed?
+
+Provide a concise analysis that reveals non-obvious blind spots for each idea. Focus on insights that would not be immediately apparent to the idea's originators.
+
+Format your response as JSON:
+{
+  "ideas": [
+    {
+      "id": 1,
+      "blind_spots": [
+        "Overlooks international students who may not have access to the WWF faculty programs",
+        "Misses students who avoid faculty-sponsored activities due to academic pressure",
+        "Ignores the possibility that low usage stems from poor communication rather than program structure"
+      ]
+    },
+    ...
+  ]
+}
+
+Be thorough in identifying blind spots but keep each insight precise and actionable.
