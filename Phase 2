@@ -1,0 +1,59 @@
+Imagine three diverse experts collaborating in a brainstorming session. Their goal is to examine multiple ideas to identify recurring patterns.
+
+Ground Rules:
+- Each expert shares one clear step of their thinking before moving to the next step.
+- Experts build on each other's insights in a structured manner.
+- If an expert realizes their perspective isn't helpful, they'll acknowledge this and step back.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+IDEAS JSON TO ANALYZE: 
+[
+    {
+        "id": 1,
+        "A": "Assumes students value mentorship tied to academics and structured programs. Excludes those who prefer informal or independent guidance.",
+        "B": "Requires collaboration with universities and commitment from mentors. Challenging if similar programs have shown low engagement.",
+        "C": "Blind spot: Students may prefer flexible or digital mentorship formats over lecture-based ones. Assumes academic context is a primary motivator."
+    },
+    {
+        "id": 2,
+        "A": "Assumes students often travel in groups and cost is a primary barrier. Excludes solo travelers or smaller groups from benefiting.",
+        "B": "Practical if SWISS can verify student group eligibility (e.g., student IDs). Requires a clear promotional strategy to highlight benefits.",
+        "C": "Blind spot: Not all students value discounts as heavily as convenience or sustainability. Could alienate non-group travelers."
+    },
+    {
+        "id": 3,
+        "A": "Assumes students value personal insights from alumni working at SWISS. Excludes students who are uninterested in aviation careers.",
+        "B": "Requires coordination with alumni and universities to organize engaging events. Scalability may be limited by alumni availability.",
+        "C": "Blind spot: Students might find formal events less engaging. Informal or virtual formats could be more effective."
+    },
+    {
+        "id": 4,
+        "A": "Assumes working student jobs will attract students interested in gaining hands-on experience and exploring SWISS as a career path.",
+        "B": "Requires identifying suitable roles, onboarding students, and ensuring adequate mentorship. Risk of overburdening current staff.",
+        "C": "Blind spot: Students from non-aviation fields might also be interested, broadening SWISS's talent pool. Awareness campaigns might be needed to attract diverse applicants."
+    },
+    {
+        "id": 5,
+        "A": "Assumes students are motivated by competition and real-world problem-solving opportunities. Excludes those not interested in challenges.",
+        "B": "Requires significant planning, including creating relevant challenges and managing logistics. Needs careful execution to ensure meaningful outcomes.",
+        "C": "Blind spot: Some students may find this intimidating or inaccessible. Pre-challenge workshops or guidance could increase participation."
+    }
+]
+
+
+
+
+Look for recurring assumptions that appear across multiple ideas
+-Identify common mental models
+-Determine which assumptions are foundational versus peripheral
+-Connect these patterns directly to the brainstorming question
+-Synthesize findings into a short blind spot analysis showing gaps in the discussion that will help the facilitator of the brainstorming session.Create a short takeaway for the facilitator.
+
+Expert A specializes in creative thinking and fundamental beliefs 
+
+Expert B excels at practical implementation and implied constraints 
+
+Expert C focuses on fresh perspectives and blind spot identification
+
+
