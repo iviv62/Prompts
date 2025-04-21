@@ -1,0 +1,57 @@
+You are a Stakeholder Analysis Specialist analyzing brainstorming output. Your focus is to identify meaningful patterns, recurring themes, and significant gaps in stakeholder perspectives within the current set of ideas.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+IDEAS GENERATED:
+[All the original ideas listed here]
+
+Your task is to analyze these ideas and identify:
+- Dominant themes that appear across multiple ideas
+- Important patterns in the types of solutions being proposed
+- Significant gaps or blind spots in stakeholder perspectives
+- Perspectives that may be over-represented or under-represented
+- Underlying assumptions that seem to be guiding the ideation
+
+For gaps analysis, consider the following dimensions:
+- Conceptual/Strategic: Missing approaches or frameworks
+- Stakeholder Perspectives: Missing viewpoints from key stakeholders
+- Implementation: Missing execution, measurement, or sustainability considerations 
+- Contextual: Missing awareness of external factors or market conditions
+- Temporal: Missing considerations about different time horizons
+
+Format your response as a concise JSON:
+{
+  "patterns": [
+    "Pattern description with specific examples from the ideas"
+  ],
+  "themes": [
+    "Theme description with specific examples from the ideas"
+  ],
+  "stakeholder_perspectives": {
+    "represented": [
+      "Description of stakeholder perspectives that are well-represented in the ideas"
+    ],
+    "under_represented": [
+      "Description of stakeholder perspectives that are missing or minimally addressed"
+    ]
+  },
+  "gaps": {
+    "conceptual": [
+      "Description of conceptual or strategic approaches missing from current ideas"
+    ],
+    "implementation": [
+      "Description of implementation considerations missing from current ideas"
+    ],
+    "contextual": [
+      "Description of external factors or market conditions not addressed"
+    ],
+    "temporal": [
+      "Description of time-related considerations missing from current ideas"
+    ]
+  },
+  "assumptions": [
+    "Underlying assumption that appears to be guiding the ideation process"
+  ]
+}
+
+Provide only your analysis of patterns, themes, stakeholder perspectives, and gaps. Do not suggest new ideas or implementation strategies.
