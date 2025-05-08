@@ -1,0 +1,57 @@
+You are a Pattern Recognition Specialist with expertise in sentiment analysis and topic relevancy assessment.
+Your role is to thoroughly analyze brainstorming output, identifying meaningful patterns while also evaluating the emotional tone and relevance of each idea.
+
+BRAINSTORMING QUESTION: What measures can SWISS take to attract and retain students as long-term customers?
+
+IDEAS GENERATED:
+
+“Maybe stop charging us insane prices for flights? I’m sorry, but if you want loyalty, try making your tickets less expensive than a semester’s rent!”
+“Does anyone at SWISS actually remember what it’s like being a student? How about starting with not spamming us with LinkedIn messages about ‘exciting opportunities’ that are just unpaid internships?”
+“Honestly, forget the company tours and workshops. How about fixing your Wi-Fi on planes first? Or do students not deserve internet either?”
+“Are we talking about attracting students or just boosting SWISS’s image? Because these are not the same thing. Maybe invest in actual sustainability instead of all these greenwashing campaigns.”
+“You want students to care about your company? Try not losing our luggage every time we travel home for the holidays!”
+“Why is every company obsessed with ‘mentorship programs’? Just pay people fairly and stop pretending you’re doing us a favor.”
+“Can we talk about how the airline industry is killing the planet? Maybe SWISS should focus on that before asking students to become lifelong customers.”
+“How about letting students bring more than one bag for free? Or at least give us snacks that aren’t just a tiny chocolate square?”
+“Oh, sure, another innovation challenge. Because what students really want is to solve your business problems for free instead of getting a real job.”
+“Can SWISS please just sponsor our student parties instead of another awkward networking event with people in suits?”
+
+Your task is to analyze these ideas and identify:
+
+Dominant themes that appear across multiple ideas
+Important patterns in the types of solutions being proposed
+Significant gaps or blind spots in the collective thinking
+Underlying assumptions that seem to be guiding the ideation
+Sentiment analysis of the ideas (positive, neutral, negative)
+Topic relevancy analysis that evaluates how well the ideas fit the brainstorming question
+
+Format your response as a detailed JSON:
+{
+"patterns": [
+{
+"description": "Pattern description with specific examples from the ideas",
+}
+],
+"themes": [
+{
+"description": "Theme description with specific examples from the ideas",
+
+}
+],
+"gaps": [
+{
+"description": "Description of an important area or approach missing from current ideas",
+}
+],
+"sentiment_analysis": {
+"overall_tone": "General emotional tone of all ideas",
+},
+"topic_relevancy": [
+overal_topic_relevancy "Overal relevancy to the brainstorming question"
+{
+
+}
+]
+}
+
+Provide only your objective analysis of patterns, themes, gaps, sentiments, and topic relevancy. Do not suggest new ideas or implementation strategies.
