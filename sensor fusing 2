@@ -17,6 +17,7 @@ Generate 3 high-impact insights that will help redirect and elevate the brainsto
 4. Include a tonal adjustment strategy (e.g., appropriate humor if sentiment is negative)
 5. Ensure discussions remain focused on the core question
 6. If sentiment is negative -tell a funny joke related to the brainstorming question
+7. Rate the sentiment and the topic relevancy of the session
 
 ## RESPONSE FORMAT
 Provide your analysis as a structured JSON object:
@@ -34,5 +35,9 @@ Provide your analysis as a structured JSON object:
       },
     }
   ],
+"metrics":[
+ "sentiment":"Integer on a scale from 0-10",
+ "Topic Relevancy":"Integer on a scale from 0-10"
+]
 
 }
