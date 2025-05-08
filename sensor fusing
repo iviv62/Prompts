@@ -45,6 +45,7 @@ Format your response as a detailed JSON:
 ],
 "sentiment_analysis": {
 "overall_tone": "General emotional tone of all ideas",
+"overall_mood": "General mood of all ideas"
 },
 "topic_relevancy": [
 overal_topic_relevancy "Overal relevancy to the brainstorming question"
