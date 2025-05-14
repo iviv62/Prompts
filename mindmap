@@ -1,1 +1,12 @@
+Generate a mind map from the following brainstorming ideas and topic.
+Use only the ideas provided. Do not come up with other ideas.
 
+The central topic is: 
+[Insert Brainstorming Topic Here]
+
+The  ideas:
+[Ideas]
+
+
+
+Structure the mind map in Markdown format using headings (`#`, `##`, `###`, etc.) and bullet points (`-`, `*`) to represent the hierarchy of ideas. The central topic should be the top-level heading (`#`). Main ideas should be second-level headings (`##`), and sub-ideas or answers to questions should be further indented using bullet points or lower-level headings. Clearly show the relationships between the central topic, main ideas, and supporting details
